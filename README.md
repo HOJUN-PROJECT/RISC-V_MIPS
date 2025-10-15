@@ -1,4 +1,4 @@
-#대학교 학부 RISC architecture MIPS 설계
+# RISC architecture MIPS 설계
 
 설계 목표
 1. RISC CPU의 구성 이해 및 diagram 설계
